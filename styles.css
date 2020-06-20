@@ -1,0 +1,53 @@
+     img {
+   
+   display: block;
+   
+    }
+
+    .no-dots{
+
+ list-style-type: none;
+
+
+    }
+
+    .ps4 {
+
+ background-color: blue;
+
+    }
+
+    .nintendo {
+
+background-color: crimson;
+
+    }
+
+
+    .pc {
+
+background-color: darkgreen;
+
+    }
+
+    table{
+
+ border: 0px;
+ 
+
+    }
+
+    th{
+
+
+        display: inline-block;
+
+    }
+
+
+    table {
+
+
+        background-origin: padding; 
+        background-color: grey;
+    }
